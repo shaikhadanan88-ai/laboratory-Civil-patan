@@ -1,0 +1,6 @@
+{
+  "name": "Civil Patan Hospital Laboratory Information System",
+  "description": "Official Laboratory Information Management System (LIMS) for Seth N.L. General Hospital - Civil Patan, featuring specimen accessioning, clinical pathology, biochemistry, microbiology, critical panic value alerting, and official report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
